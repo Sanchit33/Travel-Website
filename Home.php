@@ -20,9 +20,9 @@
         <a class="logo" herf="Home.php">Travel</a>
         <nav class="navbar">
             <a href=Home.php>Home</a>
-            <a href=about.php>Home</a>
-            <a href=package.php>Home</a>
-            <a href=book.php>Home</a>
+            <a href=about.php>About</a>
+            <a href=package.php>Package</a>
+            <a href=book.php>Book</a>
             </nav>
 
     </section>
