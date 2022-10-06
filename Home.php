@@ -15,6 +15,18 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <!-- header section start -->
+    <section class="header">
+        <a class="logo" herf="Home.php">Travel</a>
+        <nav class="navbar">
+            <a href=Home.php>Home</a>
+            <a href=about.php>Home</a>
+            <a href=package.php>Home</a>
+            <a href=book.php>Home</a>
+            </nav>
+
+    </section>
+    <!-- header section end  -->
     
 
 
