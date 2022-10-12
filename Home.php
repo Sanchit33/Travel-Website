@@ -35,7 +35,35 @@
 
 
 
+<!-- footer section starts -->
 
+
+<section class="footer">
+
+    <div class="box-container">
+        <div class="box">
+            <h3>Quick Links</h3>
+            <a href="home.php"><i class="fas fa-angle-right"></i>Home</a>
+            <a href="about.php"><i class="fas fa-angle-right"></i>About</a>
+            <a href="package.php"><i class="fas fa-angle-right"></i>Packages</a>
+            <a href="book.php"><i class="fas fa-angle-right"></i>Book</a>
+        </div>
+        <div class="box">
+            <h3>extra links</h3>
+            <a href="#"><i class="fas fa-angle-right"></i>Ask Questions</a>
+            <a href="#"><i class="fas fa-angle-right"></i>About Us</a>
+            <a href="#"><i class="fas fa-angle-right"></i>Privacy</a>
+            <a href="#"><i class="fas fa-angle-right"></i>Term & Condition</a>
+        </div>
+
+        
+
+    </div>
+
+</section>
+
+
+<!-- footer section starts -->
 
 
 
