@@ -55,6 +55,21 @@
             <a href="#"><i class="fas fa-angle-right"></i>Privacy</a>
             <a href="#"><i class="fas fa-angle-right"></i>Term & Condition</a>
         </div>
+        <div class="box">
+            <h3>contact infac</h3>
+            <a href="#"><i class="fas fa-phone"></i>7719849077</a>
+            <a href="#"><i class="fas fa-phone"></i>7719849078</a>
+            <a href="#"><i class="fas fa-envelope"></i>shindesanchit33@gmail.com</a>
+            <a href="#"><i class="fas fa-map"></i>Pune India - 411015</a>
+        </div>
+        <div class="box">
+            <h3>follow us</h3>
+            <a href="#"><i class="fab fa-facebook-f"></i>Facebook</a>
+            <a href="#"><i class="fab fa-twitter"></i>Twitter</a>
+            <a href="#"><i class="fab fa-instagram"></i>Instagram</a>
+            <a href="#"><i class="fab fa-instagram"></i>Linkin</a>
+        </div>    
+    
 
         
 
