@@ -67,18 +67,16 @@
             <a href="#"><i class="fab fa-facebook-f"></i>Facebook</a>
             <a href="#"><i class="fab fa-twitter"></i>Twitter</a>
             <a href="#"><i class="fab fa-instagram"></i>Instagram</a>
-            <a href="#"><i class="fab fa-instagram"></i>Linkin</a>
+            <a href="#"><i class="fab fa-linkedin"></i>Linkedin</a>
         </div>    
-    
-
-        
-
     </div>
+    <div class="credit"> created by <span>Sanchit33</span> | all the rights reserved!</div>
+
 
 </section>
 
 
-<!-- footer section starts -->
+<!-- footer section ends -->
 
 
 
