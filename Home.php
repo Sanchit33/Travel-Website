@@ -28,9 +28,41 @@
         <div id="menu-btn" class="fas fa-bars"></div>
        
     </section>
-    <!-- header section end  -->
+<!-- header section end  -->
+
+<!-- service section starts -->
+
+<section class="services">
+    <h1 class="heading-title"> our service </h1>
     
+    <div class="box-container">
+        <div class="box">
+            <img src="Image/icon-1.png" alt="">
+            <h3>Adventure</h3>
+        </div>
+        <div class="box">
+            <img src="Image/icon-2.png" alt="">
+            <h3>Tour Guide</h3>
+        </div>
+        <div class="box">
+            <img src="Image/icon-3.png" alt="">
+            <h3>Trekking</h3>
+        </div>
+        <div class="box">
+            <img src="Image/icon-4.png" alt="">
+            <h3>Camp Fire</h3>
+        </div>
+        <div class="box">
+            <img src="Image/icon-5.png" alt="">
+            <h3>Off Road</h3>
+        </div>
+        <div class="box">
+            <img src="Image/icon-6.png" alt="">
+            <h3>Camping</h3>
+        </div>
+</section>
     
+<!-- services section ends -->
 
 
 
