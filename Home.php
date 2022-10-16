@@ -104,6 +104,20 @@
     
 <!-- services section ends -->
 
+<!-- home about section start -->
+
+<section class="home-about">
+    <div class="image">
+        <img src="image/about-img.jpg" alt="">
+    </div>
+    
+    <div class="content">
+        <h3>about us</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quibusdam nesciunt delectus maiores atque veniam amet odio eligendi porro, repellendus ex ullam ut dolorum minima possimus eveniet voluptas deleniti unde.</p>
+        <a href="about.php" class="btn">read more</a>
+
+</section>
+<!-- home about section ends -->
 
 
 
