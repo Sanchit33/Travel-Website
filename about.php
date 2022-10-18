@@ -28,12 +28,41 @@
         <div id="menu-btn" class="fas fa-bars"></div>
        
     </section>
-    <!-- header section end  -->
+<!-- header section end  -->
     
     <div class="heading" style="background:url(image/header-bg-1.png) no-repeat">
         <h1>About us</h1>
     </div>     
     
+<!-- about section starts -->
+
+<section class = "about">
+    <div class="image">
+        <img src="image/about-img.jpg" alt="">
+    </div>
+    
+    <div class="content">
+        <h3>why choose us</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, explicabo. Eum animi repellat voluptatem minima quae, laudantium autem expedita magni repudiandae alias iure aut sequi enim incidunt fugit odit obcaecati.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem expedita harum earum deleniti, porro sit quisquam vero impedit excepturi tenetur!</p>
+        <div class="icons-container">
+            <div class="icon">
+              <i class="fas fa-map"></i>
+              <span>top destinations</span>  
+            </div>
+            <div class="icon">
+              <i class="fas fa-hand-holding-usd"></i>
+              <span>affordable price</span>  
+            </div>
+            <div class="icon">
+              <i class="fas fa-headset"></i>
+              <span>24/7 guide service</span>  
+            </div>
+        </div>        
+    </div>
+</section>
+
+<!-- about section ends -->
 
 
 
