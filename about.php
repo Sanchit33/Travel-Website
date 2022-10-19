@@ -64,7 +64,93 @@
 
 <!-- about section ends -->
 
+<section class="reviews">
+    <div class="reviews-slider">
+        <div class="w">
 
+            <div class="slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>    
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo ab, voluptatum enim nostrum quaerat id repellat, quibusdam nobis ipsam aliquid quod exercitationem quas fuga? Quam laborum quibusdam cumque quaerat doloremque!</p>
+                <h3>john doe</h3>
+                <span>traveler</span>
+                <img src="image/pic-1.png" alt="">
+            </div>
+
+            <div class="slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>    
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo ab, voluptatum enim nostrum quaerat id repellat, quibusdam nobis ipsam aliquid quod exercitationem quas fuga? Quam laborum quibusdam cumque quaerat doloremque!</p>
+                <h3>john doe</h3>
+                <span>traveler</span>
+                <img src="image/pic-2.png" alt="">
+            </div>
+            <div class="slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>    
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo ab, voluptatum enim nostrum quaerat id repellat, quibusdam nobis ipsam aliquid quod exercitationem quas fuga? Quam laborum quibusdam cumque quaerat doloremque!</p>
+                <h3>john doe</h3>
+                <span>traveler</span>
+                <img src="image/pic-3.png" alt="">
+            </div>
+            <div class="slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>    
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo ab, voluptatum enim nostrum quaerat id repellat, quibusdam nobis ipsam aliquid quod exercitationem quas fuga? Quam laborum quibusdam cumque quaerat doloremque!</p>
+                <h3>john doe</h3>
+                <span>traveler</span>
+                <img src="image/pic-4.png" alt="">
+            </div>
+            <div class="slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>    
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo ab, voluptatum enim nostrum quaerat id repellat, quibusdam nobis ipsam aliquid quod exercitationem quas fuga? Quam laborum quibusdam cumque quaerat doloremque!</p>
+                <h3>john doe</h3>
+                <span>traveler</span>
+                <img src="image/pic-5.png" alt="">
+            </div>
+            <div class="slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>    
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo ab, voluptatum enim nostrum quaerat id repellat, quibusdam nobis ipsam aliquid quod exercitationem quas fuga? Quam laborum quibusdam cumque quaerat doloremque!</p>
+                <h3>john doe</h3>
+                <span>traveler</span>
+                <img src="image/pic-6.png" alt="">
+            </div>
+        </div>
+
+    </div>
+</section>
 
 
 <!-- footer section starts -->
