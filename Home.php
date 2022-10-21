@@ -132,7 +132,7 @@
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque ipsam dolore, recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <p>Lorem ipsum dolor exercitationem pariatur sed ullam quibusdam quisquam?</p>
                 <a href="book.php" class="btn">Book Now</a>
             </div> 
         </div>
@@ -142,7 +142,7 @@
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque ipsam dolore, recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <p>Lorem ipsum dolor, recusandae atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
                 <a href="book.php" class="btn">Book Now</a>
             </div> 
         </div>
@@ -152,7 +152,7 @@
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque ipsam dolore, recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <p>Lorem ipsum dolor, consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
                 <a href="book.php" class="btn">Book Now</a>
             </div> 
         </div>    

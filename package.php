@@ -34,7 +34,139 @@
         <h1>Packages</h1>
     </div>     
     
-            
+<!-- package section starts --> 
+
+<section class="package">
+
+    <h1 class="heading-title">top destinations</h1>
+    <div class="box-container">
+
+        <div class="box">
+            <div class="image">
+                <img src="image/img-1.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="image/img-2.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="image/img-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="image/img-4.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="image/img-5.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="image/img-6.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="image/img-7.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="image/img-8.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="image/img-9.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="image/img-10.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="image/img-11.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="image/img-12.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Lorem  recusandae maxime consequatur perspiciatis nulla atque pariatur. Quas, nobis unde nulla doloremque incidunt exercitationem pariatur sed ullam quibusdam quisquam?</p>
+                <a href="book.php" class="btn">Book Now</a>
+            </div> 
+        </div>                                       
+    </div>
+    <div class="load-more"><span class="btn">load more</span></div>
+
+</section>    
+
+<!-- package section ends -->            
 
 
 
