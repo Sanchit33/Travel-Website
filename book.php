@@ -50,7 +50,7 @@
                     <input type="email" placeholder="enter your email" name="email" >
                 </div>
                 <div class="inputBox">
-                    <span>email:</span>
+                    <span>phone no:</span>
                     <input type="number" placeholder="enter your phone no." name="phone">
                 </div>
                 <div class="inputBox">
